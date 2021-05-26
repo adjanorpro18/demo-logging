@@ -1,0 +1,10 @@
+16:25:57.415 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:25:57.419 [main] INFO  dev.console.App - Implementation Logback
+16:30:42.615 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:30:42.619 [main] INFO  dev.console.App - Implementation Logback
+16:31:57.174 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:31:57.177 [main] INFO  dev.console.App - Implementation Logback
+16:32:56.304 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:32:56.308 [main] INFO  dev.console.App - Implementation Logback
+16:37:35.139 [main] INFO  dev.console.App - Bonjour Slf4J !
+16:37:35.144 [main] INFO  dev.console.App - Implementation Logback
